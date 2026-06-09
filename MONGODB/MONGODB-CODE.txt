@@ -1,0 +1,231 @@
+use EcommerceDB
+switched to db EcommerceDB
+
+
+db.customers.insertMany([
+{
+"_id":"C001",
+"name":"Shifa",
+"email":"shifa@gmail.com",
+"password":"1234"
+},
+{
+"_id":"C002",
+"name":"Alia",
+"email":"alia@gmail.com",
+"password":"1234"
+},
+{
+"_id":"C003",
+"name":"Sanaullah",
+"email":"sana@gmail.com",
+"password":"1234"
+},
+{
+"_id":"C004",
+"name":"Ahmed",
+"email":"ahmed@gmail.com",
+"password":"1234"
+},
+{
+"_id":"C005",
+"name":"Fatima",
+"email":"fatima@gmail.com",
+"password":"1234"
+}
+]);
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': 'C001',
+    '1': 'C002',
+    '2': 'C003',
+    '3': 'C004',
+    '4': 'C005'
+  }
+}
+db.products.insertMany([
+{
+"_id":"P001",
+"name":"Laptop",
+"category":"Electronics",
+"price":85000,
+"stock":10
+},
+{
+"_id":"P002",
+"name":"Smart Phone",
+"category":"Electronics",
+"price":45000,
+"stock":20
+},
+{
+"_id":"P003",
+"name":"Headphones",
+"category":"Accessories",
+"price":3000,
+"stock":50
+},
+{
+"_id":"P004",
+"name":"Keyboard",
+"category":"Accessories",
+"price":2500,
+"stock":30
+},
+{
+"_id":"P005",
+"name":"Mouse",
+"category":"Accessories",
+"price":1200,
+"stock":40
+},
+{
+"_id":"P006",
+"name":"Smart Watch",
+"category":"Electronics",
+"price":8000,
+"stock":15
+},
+{
+"_id":"P007",
+"name":"Printer",
+"category":"Electronics",
+"price":15000,
+"stock":8
+},
+{
+"_id":"P008",
+"name":"Gaming Chair",
+"category":"Furniture",
+"price":18000,
+"stock":12
+},
+{
+"_id":"P009",
+"name":"Study Table",
+"category":"Furniture",
+"price":12000,
+"stock":10
+},
+{
+"_id":"P010",
+"name":"Power Bank",
+"category":"Electronics",
+"price":3500,
+"stock":25
+},
+{
+"_id":"P011",
+"name":"USB Drive",
+"category":"Accessories",
+"price":1000,
+"stock":60
+},
+{
+"_id":"P012",
+"name":"Web Camera",
+"category":"Electronics",
+"price":5000,
+"stock":18
+}
+]);
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': 'P001',
+    '1': 'P002',
+    '2': 'P003',
+    '3': 'P004',
+    '4': 'P005',
+    '5': 'P006',
+    '6': 'P007',
+    '7': 'P008',
+    '8': 'P009',
+    '9': 'P010',
+    '10': 'P011',
+    '11': 'P012'
+  }
+}
+db.orders.insertMany([
+{
+"_id":"O001",
+"customerId":"C001",
+"productId":"P001",
+"quantity":1,
+"total":85000,
+"status":"Delivered"
+},
+{
+"_id":"O002",
+"customerId":"C002",
+"productId":"P003",
+"quantity":2,
+"total":6000,
+"status":"Pending"
+},
+{
+"_id":"O003",
+"customerId":"C003",
+"productId":"P006",
+"quantity":1,
+"total":8000,
+"status":"Delivered"
+},
+{
+"_id":"O004",
+"customerId":"C004",
+"productId":"P008",
+"quantity":1,
+"total":18000,
+"status":"Shipped"
+},
+{
+"_id":"O005",
+"customerId":"C005",
+"productId":"P010",
+"quantity":2,
+"total":7000,
+"status":"Pending"
+}
+]);
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': 'O001',
+    '1': 'O002',
+    '2': 'O003',
+    '3': 'O004',
+    '4': 'O005'
+  }
+}
+db.cart.insertMany([
+{
+"_id":"CRT001",
+"customerId":"C001",
+"productId":"P005",
+"quantity":2
+},
+{
+"_id":"CRT002",
+"customerId":"C002",
+"productId":"P007",
+"quantity":1
+},
+{
+"_id":"CRT003",
+"customerId":"C003",
+"productId":"P011",
+"quantity":3
+}
+]);
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': 'CRT001',
+    '1': 'CRT002',
+    '2': 'CRT003'
+  }
+}
+
+
