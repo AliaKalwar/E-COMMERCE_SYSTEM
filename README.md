@@ -200,7 +200,8 @@ MongoDB Database (EcommerceDB)
 
 
 ### ADMIN PANEL
-<img width="577" height="683" alt="image" src="https://github.com/user-attachments/assets/700778ea-1015-4eb1-ae6f-5780ce5005fa" />
+<img width="562" height="577" alt="image" src="https://github.com/user-attachments/assets/816bcafa-9752-47b5-b0cd-027223613c92" />
+
 <img width="490" height="486" alt="image" src="https://github.com/user-attachments/assets/84232a9e-5198-4eb3-83bd-89bfed44e7e7" />
 <img width="473" height="500" alt="image" src="https://github.com/user-attachments/assets/ca871851-aabd-457f-9026-1399fe8907f7" />
 <img width="487" height="482" alt="image" src="https://github.com/user-attachments/assets/a496c418-4704-4089-83e8-34dc79f30312" />
