@@ -116,12 +116,14 @@ This project was developed as part of the Advanced Database Management Systems (
 ---
 ## PROJECT STRUCTURE
 
+## 📁 Project Structure
+
+```bash
 E-COMMERCE_SYSTEM/
-│
 ├── .idea/
 │   ├── .gitignore
 │   ├── encodings.xml
-│   ├── misc.xml
+│   └── misc.xml
 │
 ├── src/
 │   └── main/
@@ -140,6 +142,7 @@ E-COMMERCE_SYSTEM/
 ├── README.md
 ├── project report.pdf
 └── Screenshots
+```
 
 --
 ## System Architecture
