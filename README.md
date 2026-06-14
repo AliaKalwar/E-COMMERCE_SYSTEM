@@ -114,7 +114,34 @@ This project was developed as part of the Advanced Database Management Systems (
 - Furniture
 
 ---
+## PROJECT STRUCTURE
 
+E-COMMERCE_SYSTEM/
+│
+├── .idea/
+│   ├── .gitignore
+│   ├── encodings.xml
+│   ├── misc.xml
+│
+├── src/
+│   └── main/
+│       └── java/
+│           └── org/
+│               └── example/
+│                   └── Main.java
+│
+├── MONGODB/
+│   ├── MONGODB SCREENSHOTS/
+│   ├── MONGODB_COMPASS_SCREENSHOTS/
+│   └── MONGODB-CODE.txt
+│
+├── .gitignore
+├── pom.xml
+├── README.md
+├── project report.pdf
+└── Screenshots files**
+
+--
 ## System Architecture
 
 ```text
