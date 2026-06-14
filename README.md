@@ -214,12 +214,20 @@ MongoDB Database (EcommerceDB)
 
 ### Customer PANEL
 <img width="732" height="702" alt="image" src="https://github.com/user-attachments/assets/596d16aa-3bc9-44d9-8c51-7653a20b02b9" />
-<img width="371" height="340" alt="image" src="https://github.com/user-attachments/assets/7ae14eb8-c124-4052-9344-89ad4fba1e63" />
-<img width="382" height="348" alt="image" src="https://github.com/user-attachments/assets/aa517156-f836-4e92-bca7-17fa3c2933e6" />
-<img width="382" height="337" alt="image" src="https://github.com/user-attachments/assets/ec20db2e-2d19-4cc8-a358-00c28f5648f1" />
-<img width="381" height="347" alt="image" src="https://github.com/user-attachments/assets/b8faee9c-b075-4bd8-8bf3-1403ea930aa8" />
-<img width="377" height="278" alt="image" src="https://github.com/user-attachments/assets/d500d2af-bf47-45de-8001-8206b176ecbe" />
-<img width="377" height="305" alt="image" src="https://github.com/user-attachments/assets/faf25892-45bd-4dc0-8f3a-894c6786b766" />
+<img width="602" height="518" alt="image" src="https://github.com/user-attachments/assets/348a776b-fa78-4b19-90d2-0209bbab0d01" />
+<img width="582" height="545" alt="image" src="https://github.com/user-attachments/assets/512fdfa7-ed84-4462-809a-86fc2b7523b2" />
+<img width="593" height="540" alt="image" src="https://github.com/user-attachments/assets/75123cbc-3467-46a7-9383-f485724a5fa8" />
+<img width="1325" height="523" alt="image" src="https://github.com/user-attachments/assets/d50cd915-56ce-44ef-afa6-d16853f80537" />
+<img width="1320" height="532" alt="image" src="https://github.com/user-attachments/assets/95b9a127-c1fc-4ce6-9e99-84355dabfcd9" />
+<img width="1342" height="543" alt="image" src="https://github.com/user-attachments/assets/19a89554-0b99-4931-95ab-75bf537d0454" />
+<img width="1317" height="540" alt="image" src="https://github.com/user-attachments/assets/c2e6a197-3b15-4ac3-875f-e3a42296abb2" />
+<img width="1331" height="530" alt="image" src="https://github.com/user-attachments/assets/0c8fd7aa-ecb0-4ec3-b4a4-685d411ef60c" />
+<img width="1331" height="527" alt="image" src="https://github.com/user-attachments/assets/045b473c-dde3-4f32-8278-134fd2448f31" />
+<img width="1282" height="537" alt="image" src="https://github.com/user-attachments/assets/6ae65a0f-3bf5-4062-8baa-4a5564e8489e" />
+<img width="597" height="548" alt="image" src="https://github.com/user-attachments/assets/978cc4e8-933f-4f08-aa7d-f24ed936ea21" />
+<img width="582" height="561" alt="image" src="https://github.com/user-attachments/assets/c51263bf-409e-48c8-bdac-c1452a1047e3" />
+<img width="575" height="528" alt="image" src="https://github.com/user-attachments/assets/7738c0cc-b6d4-46f2-a223-31424418a694" />
+
 
 
 ### Shopping Cart
