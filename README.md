@@ -195,19 +195,31 @@ MongoDB Database (EcommerceDB)
 ## Screenshots
 
 ### Main Dashboard
-Add screenshot here
+<img width="317" height="197" alt="image" src="https://github.com/user-attachments/assets/963cfed6-247a-4939-a957-38341352fbde" />
 
-### Product Management
-Add screenshot here
 
-### Customer Management
-Add screenshot here
+
+### ADMIN PANEL
+<img width="577" height="683" alt="image" src="https://github.com/user-attachments/assets/700778ea-1015-4eb1-ae6f-5780ce5005fa" />
+<img width="583" height="353" alt="image" src="https://github.com/user-attachments/assets/39a36b1b-d92d-4843-b768-9ca467054659" />
+
+
+### Customer PANEL
+<img width="732" height="702" alt="image" src="https://github.com/user-attachments/assets/596d16aa-3bc9-44d9-8c51-7653a20b02b9" />
+<img width="371" height="340" alt="image" src="https://github.com/user-attachments/assets/7ae14eb8-c124-4052-9344-89ad4fba1e63" />
+<img width="382" height="348" alt="image" src="https://github.com/user-attachments/assets/aa517156-f836-4e92-bca7-17fa3c2933e6" />
+<img width="382" height="337" alt="image" src="https://github.com/user-attachments/assets/ec20db2e-2d19-4cc8-a358-00c28f5648f1" />
+<img width="381" height="347" alt="image" src="https://github.com/user-attachments/assets/b8faee9c-b075-4bd8-8bf3-1403ea930aa8" />
+<img width="377" height="278" alt="image" src="https://github.com/user-attachments/assets/d500d2af-bf47-45de-8001-8206b176ecbe" />
+<img width="377" height="305" alt="image" src="https://github.com/user-attachments/assets/faf25892-45bd-4dc0-8f3a-894c6786b766" />
+
 
 ### Shopping Cart
-Add screenshot here
+<img width="382" height="305" alt="image" src="https://github.com/user-attachments/assets/a8223b59-3791-4e47-a989-a8828b158e78" />
+
 
 ### Order Management
-Add screenshot here
+<img width="381" height="245" alt="image" src="https://github.com/user-attachments/assets/b5f30f36-9d4b-4968-bbd9-6a73b4dae520" />
 
 ---
 
