@@ -201,7 +201,15 @@ MongoDB Database (EcommerceDB)
 
 ### ADMIN PANEL
 <img width="577" height="683" alt="image" src="https://github.com/user-attachments/assets/700778ea-1015-4eb1-ae6f-5780ce5005fa" />
-<img width="583" height="353" alt="image" src="https://github.com/user-attachments/assets/39a36b1b-d92d-4843-b768-9ca467054659" />
+<img width="490" height="486" alt="image" src="https://github.com/user-attachments/assets/84232a9e-5198-4eb3-83bd-89bfed44e7e7" />
+<img width="473" height="500" alt="image" src="https://github.com/user-attachments/assets/ca871851-aabd-457f-9026-1399fe8907f7" />
+<img width="487" height="482" alt="image" src="https://github.com/user-attachments/assets/a496c418-4704-4089-83e8-34dc79f30312" />
+<img width="491" height="497" alt="image" src="https://github.com/user-attachments/assets/9ef998db-6e36-40eb-b031-fb4acd62271d" />
+<img width="503" height="507" alt="image" src="https://github.com/user-attachments/assets/f1544150-ad0f-4e89-99bf-4590733f7f19" />
+<img width="1427" height="501" alt="image" src="https://github.com/user-attachments/assets/b8d4da29-fb0e-459e-8974-12c57b55d4ce" />
+<img width="1432" height="502" alt="image" src="https://github.com/user-attachments/assets/415ae410-e98f-468f-8a9e-9fe95c9b40ac" />
+<img width="1407" height="507" alt="image" src="https://github.com/user-attachments/assets/6858c9f7-7a61-4b5b-9861-a4e82392aba0" />
+
 
 
 ### Customer PANEL
