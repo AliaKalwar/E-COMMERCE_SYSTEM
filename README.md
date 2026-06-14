@@ -139,7 +139,7 @@ E-COMMERCE_SYSTEM/
 ├── pom.xml
 ├── README.md
 ├── project report.pdf
-└── Screenshots files**
+└── Screenshots
 
 --
 ## System Architecture
